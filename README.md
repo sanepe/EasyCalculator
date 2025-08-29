@@ -19,6 +19,7 @@ It features a clean **glassmorphism UI**, smooth animations, and a **Dark/Light 
 ---
 
 ## 📂 Project Structure
+```text
 calculator/
 │── index.html # Main HTML file
 │── style.css # Styling (light/dark mode included)
